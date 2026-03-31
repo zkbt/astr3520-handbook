@@ -1,0 +1,7 @@
+*.fits
+*.fit 
+*.npy
+*.ecsv
+
+.DS_Store
+_build
