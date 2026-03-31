@@ -2,6 +2,7 @@
 *.fit 
 *.npy
 *.ecsv
+*.pdf
 
 .DS_Store
 _build
