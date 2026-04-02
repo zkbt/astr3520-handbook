@@ -16,6 +16,8 @@ project:
     - file: tools.ipynb
     - file: photons.ipynb
     - file: lines.ipynb
+    - file: wavelength.ipynb
+    - file: animate.ipynb
 
     
 site:

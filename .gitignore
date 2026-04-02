@@ -3,6 +3,8 @@
 *.npy
 *.ecsv
 *.pdf
+*.txt
+*.mp4
 
 .DS_Store
 _build
